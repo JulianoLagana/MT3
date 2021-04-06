@@ -1,3 +1,8 @@
+## Introduction
+This repository contains the code for the paper "Multitarget Tracking with Transformers" (https://arxiv.org/abs/2104.00734).
+
+
+
 ## Setting up
 In order to set up a conda environment with all the necessary dependencies, run the command:
   ```
