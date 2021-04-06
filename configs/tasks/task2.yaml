@@ -1,0 +1,20 @@
+data_generation:
+    seed: 0
+    n_timesteps: 20
+    max_objects:  16
+    n_prediction_lag: 0 # 0 means predicting the last state and n_timesteps means predicting the first state
+    dt: 0.1
+    p_add:        0.4
+    p_remove:     0.05
+    p_meas:       0.8
+    sigma_q:      0.9
+    sigma_y:      0.3
+    n_avg_false_measurements : 30
+    n_avg_starting_objects: 6
+    avg_gt_objects: 5.335 # computed via simulation, 1k samples
+    field_of_view_lb: -10
+    field_of_view_ub: 10
+    mu_x0:        [0, 0]
+    std_x0:       [[3, 0], [0, 3]]
+    mu_v0:        [0, 0]
+    std_v0:       [[3, 0], [0, 3]]

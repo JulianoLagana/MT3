@@ -1,0 +1,27 @@
+name: mott
+channels:
+- defaults
+- pytorch
+dependencies:
+- python=3.7.4
+- pip
+- numpy
+- jupyter
+- matplotlib
+- scikit-learn
+- scipy
+- pandas
+- seaborn
+- nltk
+- h5py
+- spacy
+- unidecode
+- pytorch==1.6.0
+- torchvision==0.7.0
+- cpuonly
+- tk
+- pip:
+  - pyyaml
+  - ray
+  
+

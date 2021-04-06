@@ -1,0 +1,14 @@
+# Hyperparameters to be used by eval.py. Will override any hyperparams defined in the task or the trained model's
+# result folder
+
+data_generation:
+    seed: 1
+
+training:
+    batch_size: 1
+
+loss:
+    cutoff_distance: 2.0
+    order: 1
+    alpha: 2
+    existence_prob_cutoff: 0.9

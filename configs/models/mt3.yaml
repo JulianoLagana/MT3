@@ -1,0 +1,45 @@
+arch:
+    num_queries: 16
+    d_model: 256
+    d_detections: 2
+    encoder:
+        n_heads: 8
+        n_layers: 6
+        dim_feedforward: 2048
+        dropout: 0.1
+    decoder:
+        n_heads: 8
+        n_layers: 6
+        dim_feedforward: 2048
+        dropout: 0.1
+    d_prediction_hidden: 128
+    n_prediction_layers: 3
+    with_state_refine: True
+    two_stage: True
+
+loss:
+    type: 'detr'
+    cutoff_distance: 0.5
+    order: 1
+    alpha: 2
+    c_loss_multiplier: 4
+    return_intermediate: True
+    contrastive_classifier: True
+    false_classifier: False
+
+training:
+    n_gradient_steps: 1000000
+    learning_rate: 0.00005
+    batch_size: 32
+    reduce_lr_patience: 50000
+    reduce_lr_factor: 0.25
+    checkpoint_interval: 200000 # after how many gradient steps to save the weights
+    device: 'auto' # can be 'cpu', 'cuda', or 'auto' (use GPU if available)
+
+debug:
+    print_interval: 100
+    enable_plot: True
+    plot_interval: 10000
+    save_plot_figs: True
+    save_plot_figs_interval: 10000
+    print_reduce_lr_messages: True

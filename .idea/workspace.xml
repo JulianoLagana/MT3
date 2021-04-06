@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5d3dabd7-7978-43ce-a463-cd0f64bd309d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1qnMfLB3jarefYBk8krMmqA1Z3d" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.eval">
+    <configuration name="eval" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MT3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/eval.py" />
+      <option name="PARAMETERS" value="-rp src/results/2021-04-06_142637 -tp configs/tasks/task1.yaml" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="training" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MT3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/training.py" />
+      <option name="PARAMETERS" value="-tp configs/tasks/task1.yaml -mp configs/models/mt3.yaml" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.training" />
+      <item itemvalue="Python.eval" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.eval" />
+        <item itemvalue="Python.training" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d3dabd7-7978-43ce-a463-cd0f64bd309d" name="Default Changelist" comment="" />
+      <created>1617711002775</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617711002775</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="484" y="117" width="1084" height="540" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617713308771">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="484" y="117" width="1084" height="540" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1617713308771" />
+    <state x="921" y="600" width="817" height="402" key="#xdebugger.evaluate" timestamp="1617712773529">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="921" y="600" width="817" height="402" key="#xdebugger.evaluate/67.27.1853.1053@67.27.1853.1053" timestamp="1617712773529" />
+    <state width="1830" height="337" key="GridCell.Tab.0.bottom" timestamp="1617712920307">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="337" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1617712920307" />
+    <state width="1830" height="337" key="GridCell.Tab.0.center" timestamp="1617712920305">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="337" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1617712920305" />
+    <state width="1830" height="337" key="GridCell.Tab.0.left" timestamp="1617712920305">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="337" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1617712920305" />
+    <state width="1830" height="337" key="GridCell.Tab.0.right" timestamp="1617712920307">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="337" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1617712920307" />
+    <state width="1830" height="344" key="GridCell.Tab.1.bottom" timestamp="1617712781127">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="344" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1617712781127" />
+    <state width="1830" height="344" key="GridCell.Tab.1.center" timestamp="1617712781127">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="344" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1617712781127" />
+    <state width="1830" height="344" key="GridCell.Tab.1.left" timestamp="1617712781126">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="344" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1617712781126" />
+    <state width="1830" height="344" key="GridCell.Tab.1.right" timestamp="1617712781127">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="344" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1617712781127" />
+    <state x="482" y="187" key="SettingsEditor" timestamp="1617711025548">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1617711025548" />
+    <state x="640" y="288" width="707" height="528" key="find.popup" timestamp="1617712984297">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="640" y="288" width="707" height="528" key="find.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1617712984297" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/util/misc.py</url>
+          <line>117</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
