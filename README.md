@@ -27,7 +27,7 @@ Training hyperparameters such as batch size, learning rate, checkpoint interval,
 
 ## Evaluating experiments
 
-After an experiment has generated checkpoints, you can evaluate its average GOSPA score using the `eval.py` script. Example usage: 
+After an experiment has generated checkpoints, you can evaluate its average GOSPA score using the `eval.py` script. The evaluation hyperparameters can be found inside `configs/eval/default.yaml`. Example usage: 
 
 ```
 src/eval.py -rp src/results/experiment_name -tp configs/tasks/task1.yaml
