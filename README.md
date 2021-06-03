@@ -1,5 +1,5 @@
 ## Introduction
-This repository contains the code for the paper "Next Generation Multitarget Trackers: Random Finite Set Methods vs Transformer-based Deep Learning" (https://arxiv.org/abs/2104.00734).
+This repository contains the code for the paper "Next Generation Multitarget Trackers: Random Finite Set Methods vs Transformer-based Deep Learning" (https://arxiv.org/abs/2104.00734). The code for MT3 was developed as joint effort by Juliano Pinto, Georg Hess, William Ljungbergh, Yuxuan Xia, Lennart Svensson and Henk Wymeersch, and was partially based on the code available at the repositories for [DETR](https://github.com/facebookresearch/detr) and [Deformable-DETR](https://github.com/fundamentalvision/Deformable-DETR).
 
 
 
